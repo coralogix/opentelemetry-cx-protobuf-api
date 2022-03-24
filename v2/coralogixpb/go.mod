@@ -1,4 +1,4 @@
-module github.com/coralogix/opentelemetry-cx-protobuf-api/coralogixpb
+module github.com/coralogix/opentelemetry-cx-protobuf-api/v2/coralogixpb
 
 go 1.17
 
